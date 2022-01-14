@@ -7,5 +7,7 @@ Approach: In order to predict success of the campaigns, we will need to look at 
 Data required: I have considered three datasets for my analysis fro open source sites mentioned in reference section
 
 Historical campaign data
+
 US States and codes
+
 Social determination of health
